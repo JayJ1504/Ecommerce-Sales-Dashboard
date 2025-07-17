@@ -31,7 +31,6 @@ This project involves the analysis of E-Commerce sales data and the creation of 
 ## 📁 Deliverables:
 - `.pbix` file (Power BI Dashboard)
 - Sample dataset (CSV)
-- Insight summary / interpretation (optional)
 
 ---
 
